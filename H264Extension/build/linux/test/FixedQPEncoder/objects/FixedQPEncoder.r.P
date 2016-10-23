@@ -1,0 +1,3 @@
+./objects/FixedQPEncoder.r.o: \
+  /Users/amirhosseini/Documents/test_video/jsvm_new/JSVM/H264Extension/build/linux/test/FixedQPEncoder/../../../../src/test/FixedQPEncoder/FixedQPEncoder.cpp
+  /Users/amirhosseini/Documents/test_video/jsvm_new/JSVM/H264Extension/build/linux/test/FixedQPEncoder/../../../../src/test/FixedQPEncoder/FixedQPEncoder.cpp :

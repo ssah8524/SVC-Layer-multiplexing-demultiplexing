@@ -1,0 +1,3 @@
+./objects/main.d.o: \
+  /Users/amirhosseini/Documents/test_video/jsvm_new/JSVM/H264Extension/build/linux/tools/PSNR/../../../../src/tools/PSNR/main.cpp
+  /Users/amirhosseini/Documents/test_video/jsvm_new/JSVM/H264Extension/build/linux/tools/PSNR/../../../../src/tools/PSNR/main.cpp :

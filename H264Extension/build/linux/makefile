@@ -1,3 +1,10 @@
+decoder:
+	$(MAKE) -C lib/H264AVCVideoIoLib
+	$(MAKE) -C lib/H264AVCCommonLib
+	$(MAKE) -C lib/H264AVCDecoderLib
+	$(MAKE) -C test/H264AVCDecoderLibTest
+
+
 all:
 	$(MAKE) -C lib/H264AVCVideoIoLib
 	$(MAKE) -C lib/H264AVCCommonLib

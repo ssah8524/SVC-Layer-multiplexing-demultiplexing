@@ -2,6 +2,8 @@
 #include <list>
 #include <string.h>
 #include <assert.h>
+#include <cstdio>
+#include <cstdlib>
 
 typedef int ErrVal;
 
